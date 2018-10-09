@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HPC Tutorial
 
 This includes files that were used for the Bridge to the Doctorage HPC Presentation
@@ -63,3 +64,7 @@ https://anonimops.de/PythonCrash/PythonNumpy.pdf
 
 #### R
 Coming soon
+=======
+# Bioinformatics
+Test
+>>>>>>> 95760885ab8c7dbaad84a6d0d6cae9a75d8a48c4
