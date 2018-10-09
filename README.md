@@ -66,5 +66,3 @@ https://anonimops.de/PythonCrash/PythonNumpy.pdf
 Coming soon
 =======
 # Bioinformatics
-Test
->>>>>>> 95760885ab8c7dbaad84a6d0d6cae9a75d8a48c4
